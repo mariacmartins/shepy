@@ -19,6 +19,6 @@ O **shePY** (she + Python) é um projeto voluntário de ensino de programação 
 |     22/05/21    | Análise e visualização de dados - Dataset Eleições EUA    | 
 |     27/05/21    | Machine Learning - Regressão Linear  | 
 |     29/05/21    | Machine Learning - Classificação    | 
-|     03/06/21    | Streamlit    | 
+|     03/06/21    | Machine Learning - Classificação parte 2    | 
 |     05/06/21    | Introdução à Visão Computacional    | 
 |     12/06/21    | Apresentações do Desafio Final    | 
