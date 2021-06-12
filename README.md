@@ -22,3 +22,11 @@ O **shePY** (she + Python) é um projeto voluntário de ensino de programação 
 |     03/06/21    | Machine Learning - Classificação parte 2    | 
 |     05/06/21    | Introdução à Visão Computacional    | 
 |     12/06/21    | Apresentações do Desafio Final    | 
+
+Desafio final das alunas:
+- [Cristiane](https://github.com/cristiane88/Desafio-final-ShePY)
+- [Fernanda](https://github.com/fernandarrios/desafio.cinemaeliteratura)
+- [July](https://github.com/JulyNavarro/Desafio_final_shepy)
+- [Maria Luiza](https://github.com/maluperroni/desafio_final_shePY)
+- [Taís](https://github.com/taismatozo/Projeto-Final-ShePY)
+- [Victória](https://github.com/victoriapaganotto/Desafio-Final-ShePY)
